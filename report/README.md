@@ -91,4 +91,11 @@ Overall security posture: **Moderate with misconfiguration risks**
 ---
 
 ## 📁 Repository Structure
+FUTURE_CS_01/
+├── README.md
+├── evidence/
+├── screenshots/
+├── notes/
+├── report/
+└── tools/
 
