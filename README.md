@@ -23,11 +23,13 @@ OWASP Juice Shop Demo
 - GitHub
 
 ## Project Structure
-- report/
-- evidence/
-- screenshots/
-- notes/
-- tools/
+FUTURE_CS_01/
+├── README.md
+├── evidence/
+├── screenshots/
+├── notes/
+├── report/
+└── tools/
 
 ## Status
 Project initialization phase.
