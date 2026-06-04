@@ -1,6 +1,6 @@
-# 🛡️ FUTURE_CS_01 — Tâche 1 Cybersécurité
+#  FUTURE_CS_01 — Tâche 1 Cybersécurité
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce dépôt contient le travail réalisé dans le cadre de la **Tâche 1 du programme de stage en cybersécurité de Future Interns (2026)**.
 
@@ -8,7 +8,7 @@ L’objectif de cette mission est d’effectuer une **analyse de vulnérabilité
 
 ---
 
-## 🎯 Objectif de la mission
+##  Objectif de la mission
 
 Les objectifs principaux sont :
 
@@ -21,7 +21,7 @@ Les objectifs principaux sont :
 
 ---
 
-## 🌐 Site analysé
+## Site analysé
 
 - **Site testé :** OWASP Juice Shop (environnement de démonstration)
 - **URL :** https://demo.owasp-juice.shop  
@@ -30,7 +30,7 @@ Les objectifs principaux sont :
 
 ---
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - **Nmap** → Analyse des ports et services exposés
 - **OWASP ZAP (mode passif)** → Analyse des vulnérabilités web
@@ -39,7 +39,7 @@ Les objectifs principaux sont :
 
 ---
 
-## 📊 Méthodologie
+##  Méthodologie
 
 1. Scan du site avec Nmap pour identifier les ports ouverts
 2. Analyse des services et technologies exposées
@@ -50,7 +50,7 @@ Les objectifs principaux sont :
 
 ---
 
-## 🔍 Principales observations
+##  Principales observations
 
 Les éléments suivants ont été identifiés :
 
@@ -62,15 +62,15 @@ Les éléments suivants ont été identifiés :
 
 ---
 
-## ⚠️ Classification des risques
+##  Classification des risques
 
-- 🔴 **Risque élevé** : Services exposés pouvant augmenter la surface d’attaque
-- 🟠 **Risque moyen** : Mauvaises configurations de sécurité
-- 🟢 **Risque faible** : Informations non critiques ou informatives
+-  **Risque élevé** : Services exposés pouvant augmenter la surface d’attaque
+-  **Risque moyen** : Mauvaises configurations de sécurité
+-  **Risque faible** : Informations non critiques ou informatives
 
 ---
 
-## 📁 Structure du dépôt
+##  Structure du dépôt
 
 FUTURE_CS_01/
 ├── README.md
@@ -83,7 +83,7 @@ FUTURE_CS_01/
 
 ---
 
-## 📄 Livrables
+##  Livrables
 
 ✔ Rapport d’évaluation des vulnérabilités (PDF Canva)  
 ✔ Résultats du scan Nmap  
@@ -93,7 +93,7 @@ FUTURE_CS_01/
 
 ---
 
-## 📌 Compétences développées
+##  Compétences développées
 
 - Analyse de vulnérabilités web
 - Compréhension des risques réseau
@@ -103,7 +103,7 @@ FUTURE_CS_01/
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 Cette mission permet de comprendre les bases de l’audit de sécurité web dans un contexte professionnel.
 
@@ -111,14 +111,14 @@ Elle met l’accent sur l’analyse, la documentation et la communication des ri
 
 ---
 
-## 🔗 Programme de stage
+##  Programme de stage
 
 **Future Interns — Parcours Cybersécurité 2026**  
 #futureinterns
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 Stagiaire en cybersécurité : ADOGNON Komlan Dosseh Aimé 
 Programme : Future Interns (2026)
